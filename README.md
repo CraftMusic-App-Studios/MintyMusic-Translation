@@ -7,7 +7,7 @@ Welcome to the **MintyMusic** translation repository! MintyMusic is a Discord bo
 1. **Fork the repository**: Click the "Fork" button at the top right of this repository to create your own copy of it.
 2. **Clone your fork**: Clone your forked repository to your local machine.
 3. **Edit or add translation files**: 
-   - The language files are stored as `.json` files in the `languages` folder.
+   - The language files are stored as `.json` files in the `langs` folder.
    - If you want to add a new language, copy the `EN.json` file and rename it to the respective language code (e.g., `FR.json` for French).
    - Translate the keys in the JSON file while maintaining the same structure.
 
