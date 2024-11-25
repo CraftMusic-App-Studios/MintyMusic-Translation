@@ -124,7 +124,7 @@
     "live": "LIVE",
     "playlistLoad": " 🎶 Added the playlist **{0}** with `{1}` songs to the queue.",
     "trackLoad": "Added **[{0}](<{1}>)** by **{2}** (`{3}`) to begin playing.\n",
-    "trackLoad_pos": "Added **[{0}](<{1}>)** by **{3}** (`{3}`) to the queue at position **{4}**\n",
+    "trackLoad_pos": "Added **[{0}](<{1}>)** by **{2}** (`{3}`) to the queue at position **{4}**\n",
 
     "searchTitle": "Search Query: {0}",
     "searchDesc": "➥ Platform: {0} **{1}**\n➥ Results: **{2}**\n\n{3}",
@@ -186,5 +186,7 @@
     "invalidEndTime": "Invalid end time, it must be between `00:00` and `{0}`",
     "invalidTimeOrder": "End time cannot be less than or equal to start time",
 
-    "SetStageAnnounceTemplate": "Done! From now on, voice status like the one you're in now will be named according to your template. You should see it update in a few seconds."
+    "SetStageAnnounceTemplate": "Done! From now on, voice status like the one you're in now will be named according to your template. You should see it update in a few seconds.",
+
+    "translationBy": "Default language pack"
 }
